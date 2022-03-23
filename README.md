@@ -5,4 +5,4 @@ $ pkg install python
 $ pkg install python2
 $ git clone https://github.com/RasyaXHacker/takeoverdomain/
 $ cd takeoverdomain
-$ python takeoverdomain.py
+$ python takeover.py
